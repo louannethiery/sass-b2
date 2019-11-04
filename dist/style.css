@@ -7,5 +7,16 @@ h1 {
   border-radius: 10px;
   font-size: 25px;
 }
+.btn:hover {
+  background: #2C3A47;
+}
+.btn-danger {
+  background: #e55039;
+  color: #f1f2f6;
+}
+.btn-warning {
+  background: #eb2f06;
+  color: #f1f2f6;
+}
 
 /*# sourceMappingURL=style.css.map */

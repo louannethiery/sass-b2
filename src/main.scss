@@ -16,4 +16,14 @@ h1{
     &:hover{
         background: $dark;
     }
+
+    &-danger{
+        background: $danger;
+        color: $light;
+    }
+
+    &-warning{
+        background: $warning;
+        color: $light;
+    }
 }
