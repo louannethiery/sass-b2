@@ -1,0 +1,19 @@
+$danger: #e55039;
+$warning: #eb2f06;
+$success: #78e08f;
+$dark: #2C3A47;
+$light: #f1f2f6;
+
+h1{
+    color: $dark;
+}
+
+.btn{
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 25px;
+
+    &:hover{
+        background: $dark;
+    }
+}
